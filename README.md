@@ -1,17 +1,13 @@
 # RescU
 Assessing Rescue Factors in Densely Built Urban Areas
 
-## 🧠 Focus Area: Machine Perception
-
-### 📌 Project Overview
+### Project Overview
 
 This project explores the emergency rescue capabilities in densely populated urban environments through case studies in **Mong Kok (Hong Kong)** and **Dhaka (Bangladesh)**. These areas are known for their complex layouts, narrow streets, and high building density. 
 
 The goal is to develop a **"rescue factor"**—a composite metric derived from geospatial analysis, image processing, and simulation—that quantifies the accessibility of different streets for emergency response. The resulting insights can support urban planning and emergency preparedness.
 
 ---
-
-### 🎯 Key Objectives
 
 #### 1. Data Collection and Extraction
 
@@ -60,7 +56,7 @@ The goal is to develop a **"rescue factor"**—a composite metric derived from g
 
 ---
 
-### 📦 Dataset and Tools
+### Dataset and Tools
 
 #### Datasets
 
